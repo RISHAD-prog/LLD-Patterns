@@ -1,4 +1,3 @@
-# LLD-Patterns
 
 # 📐 LLD Design Patterns – Codemia Problems
 
